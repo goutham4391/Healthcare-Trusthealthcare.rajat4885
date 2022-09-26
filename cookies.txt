@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.trustcarehealth.com	TRUE	/	FALSE	1999999999	CraftSessionId	84631593e21abf4de24e942143992a11
+www.trustcarehealth.com	TRUE	/	FALSE	1999999999	CRAFT_CSRF_TOKEN	3be141aab288256f1c85e9d8ce9c8b8a798a8af54efbecabb0fcfb8e8b228ae5a%3A2%3A%7Bi%3A0%3Bs%3A16%3A%22CRAFT_CSRF_TOKEN%22%3Bi%3A1%3Bs%3A40%3A%226Y8M-BKT2Q1fuqCtqWB-xk_LDeG5w5T8dgvv2_r_%22%3B%7D
+

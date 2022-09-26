@@ -1,0 +1,207 @@
+iframe.partner {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 900px;
+	visibility: visible !important;
+	opacity: 100 !important;
+}
+
+/* TEST IFRAME */
+iframe#717 { }
+
+iframe#ARLGCOC { width:600px; height:700px; }
+
+iframe#NASWVA { width:100%; height:700px; }
+
+iframe#NRTHCOC {height:1500px; }
+
+iframe#STMYCOC {height:1400px; }
+
+iframe#TIPPCOC {height:1300px; }
+
+iframe#una_12 {height:1160px;}
+
+iframe#una_10 {height:1160px; width:646px;}
+
+iframe#una_47{height:1230px; width:580px;}
+
+iframe#una_66{height:946px; width:666px; margin-left:-24px; margin-top:-13px;}
+
+iframe#una_71{height:925px}
+
+iframe#una_73{height:914px; width:868px;}
+
+iframe#una_70{margin-left:-26px; height:810px; width:110%;}
+
+
+iframe#una_96{height:815px; width:920px}
+
+iframe#una_107{height:1090px;}
+
+iframe#una_32{height:1334px; width:410px;}
+
+iframe#una_114{height:1195px; width:636px;}
+
+iframe#una_135{height:1262px;}
+
+iframe#una_132{width:1500px; margin-left:-630px}
+
+iframe#una_209{height:1160px;}
+
+iframe#una_213{height:1180px;}
+
+iframe#una_243{height:1280px;}
+
+iframe#una_248{height:1060px;}
+
+iframe#una_250{height:1100px;}
+
+iframe#una_273 {height:400px; margin: 60px auto 20px; display: block; max-width: 800px; }
+@media only screen and (max-width: 975px) { iframe#una_273 {height:400px;} }
+@media only screen and (max-width: 780px) { iframe#una_273 {height:500px;} }
+@media only screen and (max-width: 735px) { iframe#una_273 {height:600px;} }
+
+iframe#una_299 {height:750px;}
+@media only screen and (max-width: 975px) { iframe#una_299 {height:900px;} }
+@media only screen and (max-width: 780px) { iframe#una_299 {height:1200px;} }
+@media only screen and (max-width: 735px) { iframe#una_299 {height:1550px;} }
+
+iframe#una_308 {height:1050px;}
+@media only screen and (max-width: 990px) { iframe#una_308 {height:1160px;} }
+@media only screen and (max-width: 475px) { iframe#una_308 {height:1400px;} }
+@media only screen and (max-width: 375px) { iframe#una_308 {height:1600px;} }
+
+iframe#una_332 {height:750px;}
+@media only screen and (max-width: 975px) { iframe#una_332 {height:900px;} }
+@media only screen and (max-width: 780px) { iframe#una_332 {height:1200px;} }
+@media only screen and (max-width: 735px) { iframe#una_332 {height:1550px;} }
+@media only screen and (max-width: 500px) { iframe#una_332 {height:1850px;} }
+
+iframe#una_333 {height:800px;}
+@media only screen and (max-width: 1550px) { iframe#una_333 {height:1000px;} }
+@media only screen and (max-width: 1200px) { iframe#una_333 {height:900px !important;} }
+@media only screen and (max-width: 835px) { iframe#una_333 {height:1550px !important;} }
+@media only screen and (max-width: 500px) { iframe#una_333 {height:1850px !important;} }
+
+iframe#una_334 {height: 1200px;}
+
+iframe#una_339 {height: 1125px;}
+
+iframe#una_351 {height: 1150px;}
+
+iframe#una_376 {height:1200px;}
+@media only screen and (max-width: 990px) { iframe#una_376 {height:1200px;} }
+@media only screen and (max-width: 475px) { iframe#una_376 {height:1600px;} }
+@media only screen and (max-width: 375px) { iframe#una_376 {height:1800px;} }
+
+iframe#una_395 {height:1200px;}
+@media only screen and (max-width: 990px) { iframe#una_395 {height:1200px;} }
+@media only screen and (max-width: 475px) { iframe#una_395 {height:1600px;} }
+@media only screen and (max-width: 375px) { iframe#una_395 {height:1800px;} }
+
+iframe#una_415 {height:1200px;}
+@media only screen and (max-width: 990px) { iframe#una_415 {height:1200px;} }
+@media only screen and (max-width: 475px) { iframe#una_415 {height:1700px;} }
+@media only screen and (max-width: 375px) { iframe#una_415 {height:1900px;} }
+
+iframe#una_426 {height:1240px;}
+
+iframe#una_439 {height:1165px;}
+
+iframe#una_444 {height:1165px;}
+@media only screen and (max-width: 990px) { iframe#una_444 {height:1200px;} }
+@media only screen and (max-width: 475px) { iframe#una_444 {height:1700px;} }
+@media only screen and (max-width: 375px) { iframe#una_444 {height:1900px;} }
+
+iframe#una_448 {height:1165px;}
+@media only screen and (max-width: 990px) { iframe#una_448 {height:1200px;} }
+@media only screen and (max-width: 475px) { iframe#una_448 {height:1700px;} }
+@media only screen and (max-width: 375px) { iframe#una_448 {height:1900px;} }
+
+iframe#una_457 {height:750px;}
+@media only screen and (max-width: 975px) { iframe#una_457 {height:900px;} }
+@media only screen and (max-width: 780px) { iframe#una_457 {height:1200px;} }
+@media only screen and (max-width: 735px) { iframe#una_457 {height:1550px;} }
+
+iframe#una_469 { height:1150px; }
+
+iframe#una_482  { height: 1370px; }
+
+iframe#una_500  { height: 1370px; }
+
+iframe#una_502  { height: 1300px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 990px) { iframe#una_502 {height:1300px;} }
+@media only screen and (max-width: 475px) { iframe#una_502 {height:1500px;} }
+@media only screen and (max-width: 375px) { iframe#una_502 {height:1900px;} }
+
+iframe#una_554  { height: 800px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 1200px) { iframe#una_554 {height:900px;} }
+@media only screen and (max-width: 800px) { iframe#una_554 {height:1100px;} }
+@media only screen and (max-width: 675px) { iframe#una_554 {height:1400px;} }
+@media only screen and (max-width: 375px) { iframe#una_554 {height:1900px;} }
+
+iframe#una_539  { height: 1300px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 990px) { iframe#una_539 {height:1300px;} }
+@media only screen and (max-width: 475px) { iframe#una_539 {height:1500px;} }
+@media only screen and (max-width: 375px) { iframe#una_539 {height:1900px;} }
+
+@media only screen and (max-width: 375px) { iframe#una_596 {height:1900px; overflow: scroll; } }
+
+iframe#una_612  { height: 1225px; }
+
+iframe#una_623  { height: 1300px; }
+
+iframe#una_655  { height: 1300px; }
+
+iframe#una_670  { height: 1300px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 990px) { iframe#una_670 {height:1300px;} }
+@media only screen and (max-width: 475px) { iframe#una_670 {height:1500px;} }
+@media only screen and (max-width: 375px) { iframe#una_670 {height:1900px;} }
+
+iframe#una_714  { height: 1300px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 990px) { iframe#una_714 {height:1300px;} }
+@media only screen and (max-width: 475px) { iframe#una_714 {height:1500px;} }
+@media only screen and (max-width: 375px) { iframe#una_714 {height:1900px;} }
+
+iframe#una_720  { height: 600px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 990px) { iframe#una_720 {height:550px;} }
+@media only screen and (max-width: 475px) { iframe#una_720 {height:600px;} }
+
+iframe#una_792  { height: 500px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 990px) { iframe#una_792 {height:550px;} }
+@media only screen and (max-width: 475px) { iframe#una_792 {height:900px;} }
+
+iframe#una_794  { height: 500px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 990px) { iframe#una_794 {height:550px;} }
+@media only screen and (max-width: 475px) { iframe#una_794 {height:900px;} }
+
+iframe#una_798  { height: 760px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 990px) { iframe#una_798 {height:1180px;} }
+@media only screen and (max-width: 475px) { iframe#una_798 {height:1300px;} }
+@media only screen and (max-width: 375px) { iframe#una_798 {height:1500px;} }
+
+
+iframe#una_810 { height: 700px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 990px) { iframe#una_810 {height:1000px;} }
+@media only screen and (max-width: 475px) { iframe#una_810 {height:1200px;} }
+
+iframe#una_826 { height: 500px; }
+
+iframe#una_836 { background-color: #FFF; }
+
+iframe#una_889  { height: 760px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 990px) { iframe#una_889 {height:1180px;} }
+@media only screen and (max-width: 475px) { iframe#una_889 {height:1300px;} }
+@media only screen and (max-width: 375px) { iframe#una_889 {height:1900px;} }
+
+iframe#una_893, iframe#una_895, iframe#una_896, iframe#una_897, iframe#una_898 { height: 690px; }
+
+iframe#una_971  { height: 760px; background: #FFF; border-radius: 5px; }
+@media only screen and (max-width: 990px) { iframe#una_971 {height:1180px;} }
+@media only screen and (max-width: 475px) { iframe#una_971 {height:1500px;} }
+@media only screen and (max-width: 375px) { iframe#una_971 {height:1900px;} }
+
+
+
+
